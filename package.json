@@ -18,7 +18,7 @@
     "eslint-plugin-no-only-tests": "^2.4.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "identity-obj-proxy": "^3.0.0",
     "jasmine": "^3.6.3",
     "mocha": "^8.1.0",
